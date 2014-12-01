@@ -12,6 +12,6 @@ github_username:  hkllzh
 markdown: kramdown
 markdown_ext: markdown
 source:      .
-destination: ./_deploy1
+destination: ./_deploy
 # highlighter: pygments
 highlighter: pygments
