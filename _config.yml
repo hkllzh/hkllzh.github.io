@@ -4,11 +4,11 @@
 
 # Site
 title: HKLLZH-BLOG
-subtitle: 随笔
-description: 日常开发过程随笔
+subtitle: 日常开发随笔
+description: Android web
 keywords: 
 author: lizheng
-language: zh
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
